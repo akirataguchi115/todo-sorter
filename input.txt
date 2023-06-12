@@ -1,0 +1,17 @@
+clean up the kitchen (non-imminent, time-consuming, boring)
+create github repo for your new indie game (non-imminent, quick, exciting)
+sudo apt update your raspberry pi (non-imminent, quick, boring)
+fix ceiling/roof (imminent, time-consuming, boring)
+replace smoke detector batteries (imminent, quick, boring)
+reserve tickets to a hacker conference (imminent, quick, exciting)
+fix children's hospital server bug (imminent, time-consuming, exciting)
+learn linux kernel basics (non-imminent, time-consuming, exciting)
+
+000
+001
+010
+011
+100
+101
+110
+111
